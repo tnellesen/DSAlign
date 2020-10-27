@@ -1,7 +1,6 @@
 six
 sox
-deepspeech==0.7.1
-ds-ctcdecoder==0.7.1
+deepspeech-gpu
 webrtcvad
 textdistance
 pydub
